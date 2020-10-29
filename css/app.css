@@ -1,0 +1,21 @@
+header {
+    width: 100%;
+    box-shadow: 2px 2px 1px gray;
+    margin-bottom: 2em;
+}
+header > img {
+    width: 100%;
+}
+
+.card {
+    margin-bottom: 2em;;
+}
+
+input[type=text], select {
+    width: 100%;;
+    margin-bottom: 10px;
+}
+
+p {
+    padding: 5px;   
+}
